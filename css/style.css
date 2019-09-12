@@ -8,6 +8,7 @@ body {
     font-family: 'Fauna One', serif;
     font-size: 17px;
     line-height: 1.8!important;
+    letter-spacing: 1px;
 }
 html {
     overflow-x: hidden;
@@ -50,7 +51,16 @@ h3.name {
 p {
     font-family: 'Fauna One', serif;
     font-weight: 300;
-    margin-top: 1px;
+    text-align: justify;
+    line-height: 20px;
+    font-weight: 300;
+    margin: 0px;
+    padding: 0px 10px;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
 }
 p,
 ul,
@@ -559,3 +569,136 @@ a:visited {
     object-fit: cover;
 }
 
+
+
+/*Hide and Unhide box   */
+.collapse{
+    cursor: pointer;
+    display: block;
+    background: rgb(252, 252, 252);
+  }
+  .collapse + input{
+    display: none; /* hide the checkboxes */
+  }
+  .collapse + input + div{
+    display:none;
+  }
+  .collapse + input:checked + div{
+    display:block;
+  }
+
+
+
+ /*Navigation information */ 
+ div {
+    display: block;
+    position: relative;
+    border: 0px;
+    margin: 0px;
+}
+
+div#main {
+    float: right;
+    min-height: 400px;
+    height: auto !important;
+    height: 400px;
+    width: 559px;
+    padding-left: 11px;
+    padding-right: 11px;
+    text-aling: left;
+}
+
+  div.navtitle {
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 5px;
+    margin-top: 10px;
+    padding: 2px;
+    padding-left: 4px;
+    border-bottom: 1px solid #999999;
+    font-size: 11px;
+    font-weight: 400;
+    color: #004488;
+}
+
+div.navinfo {
+    font-family: 'Open Sans', sans-serif;
+    padding: 2px;
+    padding-left: 4px;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 14px;
+}
+
+
+div#navigation {
+    position: relative;
+    float: right;
+    width: 190px;
+    text-align: left;
+    padding-top: 30px;
+    padding-right: 2px;
+    padding-left: 2px;
+}
+
+div.section {
+    width: 559px;
+}
+
+div#header {
+    border-bottom: 1px solid #bbbbbb;
+    overflow: auto;
+    padding: 5px;
+    padding-top: 15px;
+}
+
+
+h3.title {
+    position: relative;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    font-weight: 300;
+    margin-bottom: 10px;
+    margin-top: 30px;
+    color: #000000;
+    font-variant: small-caps;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+p.info {
+    font-size: 16px;
+    line-height: 1.4;
+    font-family: 'Open Sans', sans-serif;
+    text-align: justify;
+    line-height: 20px;
+    font-weight: 300;
+    margin: 0px;
+    padding: 0px 10px;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+
+a.format {
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;
+    font-weight: 400;
+    color: #004488;
+}
+
+h3 {
+    position: relative;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    margin-bottom: 10px;
+    margin-top: 30px;
+    color: #000000;
+    font-variant: small-caps;
+}
