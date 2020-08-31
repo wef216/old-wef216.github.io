@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <meta name="description" content="Wei Fu, University of Pennsylvania">
+      <meta name="author" content="">
+      <title>Wei Fu</title>
+      <!-- Css -->
+      <link href="css/bootstrap.css" rel="stylesheet">
+      <link href="css/style.css" rel="stylesheet">
+   </head>
+
+
+
+
+
+   <body>
+      
+      <div id="central">
+            
+                     <div id = "header">
+                        <div style="float:center;">
+                              
+                              <div style="font-family: 'Open Sans'; font-size:30px;font-weight:300; font-stretch: normal;
+                               font-style:normal;font-variant:normal; padding-left:2px;padding-top:0px;margin-bottom:0px;">
+                               <font color = "black">  </font>                              
+                                <div style="float:right;margin-left:20px;"><img src="" width="105px"></div>
+                               </div>   
+
+                              <a href="https://www.med.upenn.edu/" style="font-family: 'Open Sans'; font-size:16px; font-weight:300; 
+                               color: #004488;font-variant:normal;padding-left:20px;" target="_blank">
+                                </a>
+                        </div>  
+                     </div>      
+               
+                  
+
+            
+   
+           
+                     <div id="navigation">
+                           
+                           <div style = "margin: 3px">
+                           <img src="img/Wei_Fu.jpg" style = "max-width: 90%; max-height: 90%" alt="Slide"> 
+                           </div>
+                           
+                           <div class="navtitle">Contact Information</div>
+                           
+                           <div class="navinfo"> 
+                                 <a href="mailto:wef216@lehigh.edu">wef216@lehigh.edu </a>  
+                           </div>
+
+                           <div class="navtitle">Mailing Address </div>
+                           
+                           <div class="navinfo"> 
+                              621 Taylor Street, <br>
+                              Rauch Business Center, <br>
+                              Bethlehem, PA, 18015 <br>
+                              <a href="mailto:wef216@lehigh.edu">wef216@lehigh.edu </a>  
+                           </div>
+                          
+                     </div>
+
+
+                     <div id = "main">
+
+                        <!-- Welcome -->
+                        <div class = "section">
+                        <h3>WELCOME </h3>
+                        <div style="font-size:13px;">
+                           I am a Ph.D. candidate in Economics at Lehigh University. 
+                           My research focuses on health economics <span style = "font-size: 10pt">(primary field), </span> labor economics and applied econometrics <span style = "font-size: 10pt">(secondary field) </span>. 
+                        </div>  
+                        </div>
+                       
+                        
+                        <!-- Material Update -->
+                        <div class="section"> 
+                              <h3> JOB MARKET INFORMATION</h3>
+                              <div style="font-size:13px;"> I will be at the 2020 ASSA meeting at San Diego, CA.</div> 
+                              <div style="padding-left:30px;padding-bottom:3px;margin-top:3px;font-size:14px;">
+                                    <a class="format" href="" target="_blank"> Job Market Paper </a> <font color = "red">(Coming Soon)</font> 
+                              </div>
+                              <div style="padding-left:30px;padding-bottom:3px;margin-top:3px;font-size:14px;">
+                                 <a class="format" href="img/cv_2019.pdf" target="_blank">
+                                    Curriculum Vitae</a> 
+                              </div>   
+                              <div style="padding-left:30px;padding-bottom:3px;margin-top:3px;font-size:14px;">
+                                 <a class="format" href="" target="_blank">
+                                 Research Statement</a>   <font color = "red">(Coming Soon)</font> 
+                              </div>
+                        </div>
+
+
+                        <!-- Uncoming Activities-->
+
+
+                        <!-- Pubulications-->
+                        <div class="section">
+                         <h3>PUBLICATIONS</h3>  
+                        <p style="font-weight:600;"> Unemployment Insurance and Cigarette Smoking </p>
+                        <div style="padding-left:30px;padding-bottom:3px;margin-top:3px;font-size:13px;">
+                              Wei Fu and Feng Liu,
+                           <font color="blue"> Journal of Health Economics,</font>  vol 63, (Jan 2019): 34-51.
+                            <a href="https://www.sciencedirect.com/science/article/pii/S0167629618300560" target= "_blank">[Published Version] </a>
+                         <label class="collapse" for="_1">[Show/Hide Abstract]</label> 
+                         <input id="_1" type="checkbox"> 
+                         
+                         <div style = "text-align: justify"> We provide evidence for the causal relationship between unemployment insurance (UI) and individuals’ smoking behavior using the 1995–2011 Current Population Survey-Tobacco Use Supplement data. Our identification relies on the exploitation of the exogenous variations of the maximum UI weekly benefits across states and over years. Instead of focusing on all unemployed people, we concentrate on those who are eligible for UI benefits. We find that when the maximum UI weekly benefit level increases by $100, smoking cessation increases by approximately 2.9 percentage points among the UI-eligible unemployed. The results are robust to various model specifications. We also explore the mechanism and find suggestive evidence that the increase in the maximum UI weekly benefit leads to a decrease in the probability of over-work of the respective spouse. Moreover, the unemployed who are less educated are more responsive to the increasing UI benefits.  
+                              <div class="row maginal-top-45">
+                                    <div class="col-md-6">
+                                       <img  src="img/UI-Fig-1.png" style = "max-width: 100%; max-height: 100%" />
+                                    </div>
+                                    <div class="col-md-6">
+                                       <img  src="img/UI-Fig-2.png" style = "max-width: 100%; max-height: 100%" />
+                                    </div>
+                              </div>
+                           </div>
+
+                        </div>
+                        </div> 
+
+
+                         <!-- WORKING PAPERS-->
+                         <div class = "section">
+                              <h3>WORKING PAPERS</h3> 
+                              <!-- Working paper 1--> 
+                             <p style="font-weight:600;"> Unintended Policy Consequence: Migration Control Policy in Mega Cities in China and Parent-Children Separation  </p>
+                             <div style="padding-left:30px;padding-bottom:3px;margin-top:3px;font-size:13px;">
+                                   Yuanyuan Chen and Wei Fu,
+                                <font color="blue"> Current Draft September, 2019.</font> 
+                              <label class="collapse" for="_2">[Show/Hide Abstract]</label> 
+                              <input id="_2" type="checkbox"> 
+                              <div style = "text-align: justify"> 
+                               Large cities in China have started to implement population control policies since 2014. Using difference-in-difference estimation with the data of the Chinese Migrant Dynamic Monitoring Survey from 2011 to 2015, we find that increase in the population control enforcement in large cities causes children of rural to urban migrant workers who work in these cities to be more likely left behind. The effect is robust to alternative measures of population control enforcement intensification, to the definition of children left behind, as well as to some identification tests accounting for the pre-existing trend tests and the self-selection of parent migration choice. This impact is primarily driven by increasing the education enrollment requirement in 2014 in large cities and is more pronounced for families with lower social-economic status and children at school entrance age.     
+                              
+                                    <div class="row maginal-top-45">
+                                       <div class="col-md-6">
+                                          <img  src="img/Migrant-pattern.png" style = "max-width: 100%; max-height: 100%" />
+                                        </div>
+                                        <div class="col-md-6">
+                                           <img  src="img/Migrant-DD.png" style = "max-width: 100%; max-height: 100%" />
+                                       </div>
+                                    </div>
+                              </div>
+                             </div>
+                         </div> 
+     
+                        
+                        
+                         <!-- Working paper 2-->
+                             <p  style="font-weight:600;">  Technology Development, Labor Migration and Family Integration: Evidence from China’s High-Speed Railway Development
+                              </p>
+                             <div style="padding-left:30px;padding-bottom:3px;margin-top:3px;font-size:13px;">
+                                 Hui Cao, Shin-Yi Chou, Wei Fu, 
+                                <font color="blue"> Current Draft December, 2018.</font> 
+                              <label class="collapse" for="_3">[Show/Hide Abstract]</label> 
+                              <input id="_3" type="checkbox"> 
+                              <div style = "text-align: justify"> 
+                                    As radical High-Speed Railway (HSR) network has been constructing since 2008, the ultra-city transportation cost drops significantly. In this paper, we investigate how the development in transportation technology changes adult children’s job allocation decision as well as the family integration. Drawn on the China Longitudinal Healthy Longevity Survey, we construct a Difference-in-Difference model utilizing the timing variation of the city’s first HSR station open date. We find that the HSR connection contributes to approximately 2.8% increase in the probability of children’s frequently visiting elder parent, and also increase the probability of children’s work outside their parent’s county by 30%. These findings show that the development in transportation technology expand an individual’s job options and substantially changes the family dynamics.                     </h4>   
+                                 </div>
+                             </div>
+
+
+
+                         <!-- WORKING IN PROGRESS-->
+                        <div class = "section">
+                              <h3>WORKING IN PROGRESS</h3>  
+                             <p style="font-weight:600;"> Unemployment Insurance and Food Insecurity </p>
+                             <span style="padding-left:30px;padding-bottom:3px;margin-top:3px;font-size:13px;">
+                                   Wei Fu and Feng Liu, <font color="blue"> Current stage: in writing. </font>
+                             </span>
+                        </div> 
+                           
+                        
+                        
+                        
+                        <!-- Other Pubulications-->
+                           <div class = "section">
+                              <h3>OTHER PUBLICATIONS</h3>  
+                              <p  style="font-weight:600;"> Land Transfer Right, Rural-to-Urban Migration and Agricultural Production. </p>
+                              <div style="padding-left:30px;padding-bottom:3px;margin-top:3px;font-size:13px;">
+                                    Yuanyuan Chen and Wei Fu, <font color="blue"> Management World(管理世界) </font>, Nov, 2017.
+                              </div>
+
+                              <p  style="font-weight:600;"> 
+                                    Purchased by Government or Provided by Family? Estimating the Substitution Effects of Informal Care. 
+                               <div style="padding-left:30px;padding-bottom:3px;margin-top:3px;font-size:13px;">
+                                    Wei Fu and Feng Huang, <font color="blue"> Nankai Economic Studies (南开经济研究) </font>, 2017.  
+                               </div>
+
+                              <p  style="font-weight:600;"> 
+                                    Ecological Footprint Analysis of the China’s International Trade. 
+                                 <div style="padding-left:30px;padding-bottom:3px;margin-top:3px;font-size:13px;">
+                                    Wei Fu and Zhaohua Li, <font color="blue"> China Industrial Economics (中国工业经济) </font>, 2013.   
+                              </div>
+
+
+                        </div> 
+                           
+                        
+                        
+                        
+                        
+                        </div>
+
+                     </div>
+                  
+
+                    <div id="lower">
+                    <div style = "float:right">
+                     Content @ 2019 Wei Fu. The template is inspired by Kurt Mitman's website.
+                   </div>
+                  </div> 
+
+                  </div>       
+
+         
+            
+
+        
+
+   
+   
+      <!-- script -->
+      <script src="js/jquery.js"></script>
+      <script src="js/bootstrap.min.js"></script>
+      <script src="js/modernizr.js"></script>
+      <script src="js/script.js"></script>
+   </body>
+</html>
